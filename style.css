@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+
+figure {
+    flex-basis: 50 % 
+}
