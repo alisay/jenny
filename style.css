@@ -23,6 +23,7 @@ figure {
     background-color: #000;
     opacity: .5;
     padding: 20px;
+    font-weight: bold;
 }
 
 audio {
